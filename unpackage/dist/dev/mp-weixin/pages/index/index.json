@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "uni-swipe-action-item": "../../uni_modules/uni-swipe-action/components/uni-swipe-action-item/uni-swipe-action-item",
+    "uni-swipe-action": "../../uni_modules/uni-swipe-action/components/uni-swipe-action/uni-swipe-action",
+    "uni-card": "../../uni_modules/uni-card/components/uni-card/uni-card",
+    "uni-fab": "../../uni_modules/uni-fab/components/uni-fab/uni-fab",
+    "uni-popup-dialog": "../../uni_modules/uni-popup/components/uni-popup-dialog/uni-popup-dialog",
+    "uni-popup": "../../uni_modules/uni-popup/components/uni-popup/uni-popup"
+  }
+}
